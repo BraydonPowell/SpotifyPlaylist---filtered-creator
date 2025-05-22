@@ -8,7 +8,7 @@ redirect_uri="redirect url"
 
 # You can get these from the Spotify playlist URLs
 SOURCE_PLAYLIST_ID = " existing playlist share link "  # the one you want to scan
-TARGET_PLAYLIST_ID = "new play;ist share link"  # the one to copy Drake tracks into
+TARGET_PLAYLIST_ID = "new playlist share link"  # the one to copy Drake tracks into
 
 
 scope = "playlist-read-private playlist-modify-public playlist-modify-private"
